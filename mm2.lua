@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZnexDev/Loader/refs/heads/main/obfuscated_CeL7IO4bQtW7wfAHvya67TPPoppnJ7cTKl4XMBOofhlo6n3JITVXIrT2ZyrpWNewzWGH8.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZnexDev/Loader/refs/heads/main/obfuscated_uGv17JbIy67bdmlCGwau1KwISNS5tCYV9e1cu9eXYT0mChHX2ipULtdw9vNowk8GdJ5CQ.lua"))()
